@@ -2,7 +2,7 @@
 
 # 👶 Baby Cry Classification
 
-### Deep Learning-based Infant Cry Classification using MobileNetV2
+### Deep Learning-based Infant Cry Classification 
 
 Classifying infant crying sounds into different categories using audio preprocessing, Mel Spectrograms, and Transfer Learning.
 
